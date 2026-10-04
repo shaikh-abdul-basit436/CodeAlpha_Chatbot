@@ -124,25 +124,35 @@ The chatbot currently supports questions related to:
                   ┌──────────────────┐
                   │    Response      │
                   └──────────────────┘
-```
-🛠️ Technology Stack
-Backend
+## 🛠️ Technology Stack
+
+### Backend
+
 - Python
 - Flask
 - Flask-CORS
-Chatbot Engine
+
+### Chatbot Engine
+
 - Python
 - JSON Knowledge Base
 - Pattern Matching
 - Keyword Similarity
 - Sentence Similarity
 - Retrieval-Based Responses
-Frontend
+
+### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
 - Responsive Web Design
-📂 Project Structure
+
+---
+
+## 📂 Project Structure
+
+```text
 CodeAlpha_Chatbot/
 │
 ├── app/
@@ -230,28 +240,17 @@ http://127.0.0.1:5000
 Open the URL in your browser to use the chatbot.
 🎯 Example Questions
 Users can ask questions such as:
-What are your internship timings?
-
-How long is the internship?
-
-What tasks do I have?
-
-What documents are required?
-
-How do I apply for the internship?
-
-How is attendance recorded?
-
-Can I take leave?
-
-Will I get a certificate?
-
-How do I submit my project?
-
-What is the submission deadline?
-
-I need technical help.
-
+- What are your internship timings?
+- How long is the internship?
+- What tasks do I have?
+- What documents are required?
+- How do I apply for the internship?
+- How is attendance recorded?
+- Can I take leave?
+- Will I get a certificate?
+- How do I submit my project?
+- What is the submission deadline?
+- I need technical help.
 📊 Accuracy and Reliability
 The chatbot uses a controlled knowledge base instead of generating unsupported information.
 This approach provides:
@@ -294,7 +293,7 @@ TASK4_STATUS.md
 
 This file contains the final implementation status and major components completed for the internship task.
 🔗 Project Repository
-GitHub Repository:
+GitHub Repository
 https://github.com/shaikh-abdul-basit436/CodeAlpha_Chatbot
 🎓 Internship Task
 Program: CodeAlpha Internship
@@ -319,8 +318,15 @@ Software & Cloud Computing Enthusiast
 The Internship Assistant Chatbot demonstrates the practical implementation of a complete chatbot workflow, from user interaction and API communication to knowledge retrieval and response delivery.
 The project was developed with a focus on:
 Simplicity • Reliability • Usability • Maintainability • Extensibility
-The architecture provides a strong foundation for future integration with advanced AI technologies such as LLMs, RAG pipelines, vector databases, and contextual conversation systems.
-⭐ Thank you for reviewing this project!
+The architecture provides a strong foundation for future integration with advanced AI technologies such as:
+- LLMs
+- RAG pipelines
+- Vector databases
+- Contextual conversation systems
+⭐ Thank You
+Thank you for reviewing this project!
 CodeAlpha Internship — Task 4
 Internship Assistant Chatbot
 Status: Completed ✅
+
+**Important:** The outer code block is only for this chat. When pasting into GitHub, paste the Markdown content itself into `README.md`, including the inner ` ```text`, ` ```json`, ` ```bash`, etc. blocks.
