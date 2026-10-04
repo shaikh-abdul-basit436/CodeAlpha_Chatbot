@@ -1,0 +1,199 @@
+﻿{
+  "intents": [
+    {
+      "name": "greeting",
+      "patterns": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Good evening"
+      ],
+      "response": "Hello! I am your Internship Assistant. I can help you with internship timings, duration, tasks, applications, attendance, certificates, and technical questions."
+    },
+    {
+      "name": "internship_timings",
+      "patterns": [
+        "What are your internship timings?",
+        "What is the internship timing?",
+        "When is the internship?",
+        "What are the working hours?",
+        "What time does the internship start?",
+        "What time does the internship end?",
+        "What are the working hours for the internship?"
+      ],
+      "response": "The internship working hours are Monday to Friday, from 10:00 AM to 6:00 PM."
+    },
+    {
+      "name": "internship_duration",
+      "patterns": [
+        "How long is the internship?",
+        "What is the internship duration?",
+        "How many days is the internship?",
+        "How many months is the internship?",
+        "When does the internship finish?",
+        "How long do I need to complete the internship?"
+      ],
+      "response": "The internship duration depends on the assigned program and its specific requirements. Please refer to your internship assignment for the exact duration."
+    },
+    {
+      "name": "tasks",
+      "patterns": [
+        "What tasks do I have?",
+        "What are the internship tasks?",
+        "Where can I find my tasks?",
+        "What work do I need to complete?",
+        "What projects do I need to complete?",
+        "What should I do for the internship?"
+      ],
+      "response": "Your assigned tasks are listed in the internship instructions or project assignment provided to you. Please refer to those materials for the complete task details."
+    },
+    {
+      "name": "eligibility",
+      "patterns": [
+        "Who can apply for the internship?",
+        "What is the internship eligibility?",
+        "Who is eligible?",
+        "What are the eligibility requirements?",
+        "Can students apply?",
+        "Am I eligible for the internship?"
+      ],
+      "response": "Eligibility depends on the requirements of the specific internship program. Please check the official internship requirements for the applicable eligibility criteria."
+    },
+    {
+      "name": "application",
+      "patterns": [
+        "How can I apply?",
+        "How do I apply for the internship?",
+        "Where can I apply?",
+        "What is the application process?",
+        "How do I register?",
+        "How can I register for the internship?"
+      ],
+      "response": "Please follow the official internship application or registration process provided by the internship program."
+    },
+    {
+      "name": "documents",
+      "patterns": [
+        "What documents are required?",
+        "Which documents do I need?",
+        "What documents should I submit?",
+        "Do I need any documents?",
+        "What paperwork is required?"
+      ],
+      "response": "Required documents depend on the internship program. Please refer to the official internship instructions for the current document requirements."
+    },
+    {
+      "name": "attendance",
+      "patterns": [
+        "How is attendance recorded?",
+        "What are the attendance requirements?",
+        "Do I need to maintain attendance?",
+        "How much attendance is required?",
+        "Where can I check my attendance?"
+      ],
+      "response": "Attendance requirements depend on the internship program. Please follow the attendance instructions provided by your internship coordinator."
+    },
+    {
+      "name": "leave",
+      "patterns": [
+        "Can I take leave?",
+        "How can I request leave?",
+        "What is the leave policy?",
+        "Can I take a day off?",
+        "I need leave",
+        "How do I apply for leave?"
+      ],
+      "response": "Leave availability and approval depend on the internship program. Please contact your internship coordinator before taking leave."
+    },
+    {
+      "name": "certificate",
+      "patterns": [
+        "Will I get a certificate?",
+        "How do I get my internship certificate?",
+        "When will I receive my certificate?",
+        "Is a certificate provided?",
+        "Do I receive a completion certificate?"
+      ],
+      "response": "Certificate availability and eligibility depend on successful completion of the internship requirements. Please follow the official completion process."
+    },
+    {
+      "name": "completion",
+      "patterns": [
+        "How do I complete the internship?",
+        "What is required for completion?",
+        "When is my internship complete?",
+        "How can I finish my internship?",
+        "What do I need to submit for completion?"
+      ],
+      "response": "Complete all assigned tasks and follow the submission and completion requirements provided by your internship program."
+    },
+    {
+      "name": "mentor",
+      "patterns": [
+        "Who is my mentor?",
+        "How can I contact my mentor?",
+        "Who should I contact for guidance?",
+        "Who will guide me?",
+        "I need help from my mentor"
+      ],
+      "response": "Please use the mentor or coordinator details provided with your internship assignment to contact the appropriate person for guidance."
+    },
+    {
+      "name": "technical_support",
+      "patterns": [
+        "I need technical help",
+        "I have a technical issue",
+        "How can I get technical support?",
+        "I need help",
+        "Something is not working",
+        "I have a problem with the project"
+      ],
+      "response": "Please describe your technical issue in detail, and I will help you identify the appropriate solution."
+    },
+    {
+      "name": "project_submission",
+      "patterns": [
+        "How do I submit my project?",
+        "Where should I submit my project?",
+        "How can I submit my task?",
+        "Where do I upload my project?",
+        "How do I submit completed work?"
+      ],
+      "response": "Please follow the project submission instructions provided with your internship assignment and submit your completed work through the specified platform."
+    },
+    {
+      "name": "deadline",
+      "patterns": [
+        "What is the deadline?",
+        "When is the submission deadline?",
+        "When do I need to submit?",
+        "What is the task deadline?",
+        "When should I complete the project?"
+      ],
+      "response": "Please refer to your internship assignment or official instructions for the exact submission deadline."
+    },
+    {
+      "name": "goodbye",
+      "patterns": [
+        "Bye",
+        "Goodbye",
+        "See you",
+        "Thank you bye"
+      ],
+      "response": "Goodbye! Best of luck with your internship and your projects."
+    },
+    {
+      "name": "thanks",
+      "patterns": [
+        "Thank you",
+        "Thanks",
+        "Thank you so much",
+        "Thanks for helping",
+        "That helped"
+      ],
+      "response": "You're welcome! I'm happy to help. Feel free to ask another internship-related question."
+    }
+  ]
+}
