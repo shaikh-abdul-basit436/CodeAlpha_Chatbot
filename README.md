@@ -165,8 +165,8 @@ The chatbot handles questions about:
 - Analytics
 - Cloud Deployment
 
-```
-🎓 Internship Task
+
+##🎓 Internship Task
 This project was developed for:
 CodeAlpha Internship
 Task: Task 4 – Making a Chatbot
@@ -181,18 +181,46 @@ Handle user queries	✅ Completed
 Add error handling	✅ Completed
 Create responsive UI	✅ Completed
 
+--- 
 
-👨‍💻 Developer
-Shaikh Abdul Basit
+## 🔮 Future Enhancements
+
+- User Login & Registration
+- Admin Dashboard
+- Leaderboard
+- Question Management System
+- Database Integration (MySQL)
+- Performance Analytics
+- Certificate Generation
+- Multiplayer Quiz
+- Cloud Deployment
+
+---
+
+## 👨‍💻 Developer
+
+**Shaikh Abdul Basit**
+
 Second-Year B.Sc. Information Technology Student
+
 GitHub:
 https://github.com/shaikh-abdul-basit436
+
 Email:
 abdulbasitshaikh436@gmail.com
-⭐ Support
+
+---
+
+## ⭐ Support
+
 If you found this project useful, consider giving it a ⭐ on GitHub.
+
 It helps support the project and encourages future improvements.
-Copyright
+
+---
+
+## Copyright
+
 © 2026 Shaikh Abdul Basit. All rights reserved.
+
 This project is provided for viewing and educational purposes only.
-No part of this project may be copied, modified, distributed, or used for commercial purposes without prior written permission from the author.
