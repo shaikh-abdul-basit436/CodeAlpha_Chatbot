@@ -161,13 +161,13 @@ The application handles unsuccessful API requests and displays a user-friendly m
 ## Running the Application
 
 Activate the virtual environment and run:
-
+```
 python -m app.main
-
+```
 Then open:
-
+```
 http://127.0.0.1:5000
-
+```
 ## Future Enhancements
 
 Possible future improvements include:
