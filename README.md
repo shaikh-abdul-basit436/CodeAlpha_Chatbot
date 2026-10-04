@@ -124,36 +124,23 @@ The chatbot currently supports questions related to:
                   ┌──────────────────┐
                   │    Response      │
                   └──────────────────┘
+```
+---
+
 ## 🛠️ Technology Stack
 
-### Backend
-
-- Python
-- Flask
-- Flask-CORS
-
-### Chatbot Engine
-
-- Python
-- JSON Knowledge Base
-- Pattern Matching
-- Keyword Similarity
-- Sentence Similarity
-- Retrieval-Based Responses
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Web Design
+- **Backend:** Python, Flask, Flask-CORS
+- **Chatbot Engine:** Python, JSON Knowledge Base, Pattern Matching, Keyword Similarity, Sentence Similarity
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Data Storage:** JSON
+- **Development Environment:** Python Virtual Environment
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```text
-CodeAlpha_Chatbot/
+```
+Chatbot/
 │
 ├── app/
 │   ├── chatbot/
@@ -174,9 +161,10 @@ CodeAlpha_Chatbot/
 │   └── index.html
 │
 ├── requirements.txt
-├── .gitignore
 ├── README.md
-└── TASK4_STATUS.md
+├── TASK4_STATUS.md
+└── .gitignore
+```
 
 🔄 How It Works
 The chatbot follows a simple retrieval-based processing flow.
@@ -323,10 +311,25 @@ The architecture provides a strong foundation for future integration with advanc
 - RAG pipelines
 - Vector databases
 - Contextual conversation systems
+
+👨‍💻 Developer
+Shaikh Abdul Basit
+Second-Year B.Sc. Information Technology Student
+GitHub:
+https://github.com/shaikh-abdul-basit436
+Email:
+abdulbasitshaikh436@gmail.com
+⭐ Support
+If you found this project useful, consider giving it a ⭐ on GitHub.
+It helps support the project and encourages future improvements.
+Copyright
+© 2026 Shaikh Abdul Basit. All rights reserved.
+This project is provided for viewing and educational purposes only.
+No part of this project may be copied, modified, distributed, or used for commercial purposes without prior written permission from the author.
+
+  
 ⭐ Thank You
 Thank you for reviewing this project!
 CodeAlpha Internship — Task 4
 Internship Assistant Chatbot
 Status: Completed ✅
-
-**Important:** The outer code block is only for this chat. When pasting into GitHub, paste the Markdown content itself into `README.md`, including the inner ` ```text`, ` ```json`, ` ```bash`, etc. blocks.
