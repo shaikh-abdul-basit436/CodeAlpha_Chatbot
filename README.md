@@ -125,7 +125,7 @@ Response:
   "response": "The internship follows the timings provided by CodeAlpha."
 }
 ```
-💬 Example Questions
+## 💬 Example Questions
 The chatbot handles questions about:
 - Internship timings and duration
 - Tasks and eligibility
@@ -135,27 +135,23 @@ The chatbot handles questions about:
 - Project submission and deadlines
 - Certificate and completion
 - General greetings and thanks
-🎨 User Interface
-- Modern responsive chat interface
-- Suggested questions
-- Typing indicator and timestamps
-- Copy response and feedback buttons
-- Error handling
-- Mobile-friendly design
-📊 Reliability
+--- 
+## 📊 Reliability
 - Structured knowledge base
 - Query and pattern matching
 - Relevant predefined responses
 - Unsupported-query handling
 - API and server error handling
-📸 Screens
+---
+## 📸 Screens
 - Chatbot Interface
 - Suggested Questions
 - Chat Conversation
 - Bot Responses
 - Feedback Controls
 - Mobile View
-🔮 Future Enhancements
+---
+## 🔮 Future Enhancements
 - LLM and RAG Integration
 - Database Integration
 - User Authentication
@@ -164,9 +160,9 @@ The chatbot handles questions about:
 - Voice and Multilingual Support
 - Analytics
 - Cloud Deployment
+---
 
-
-##🎓 Internship Task
+## 🎓 Internship Task
 - This project was developed for:
 - CodeAlpha Internship
 - Task: Task 4 – Making a Chatbot
