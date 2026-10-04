@@ -90,7 +90,7 @@ The chatbot currently handles questions related to:
 - CSS3
 - JavaScript
 - Responsive design
-
+```
 ## Project Structure
 
 Chatbot/
@@ -116,7 +116,7 @@ Chatbot/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## API
 
 ### POST /api/chat
