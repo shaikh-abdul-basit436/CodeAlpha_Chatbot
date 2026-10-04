@@ -167,21 +167,21 @@ The chatbot handles questions about:
 
 
 ##🎓 Internship Task
-This project was developed for:
-CodeAlpha Internship
-Task: Task 4 – Making a Chatbot
-Requirements
-Requirement	Status
-Create a chatbot	✅ Completed
-Develop chatbot interface	✅ Completed
-Implement backend API	✅ Completed
-Create knowledge base	✅ Completed
-Implement query matching	✅ Completed
-Handle user queries	✅ Completed
-Add error handling	✅ Completed
-Create responsive UI	✅ Completed
+- This project was developed for:
+- CodeAlpha Internship
+- Task: Task 4 – Making a Chatbot
+- Requirements
+- Requirement	Status
+- Create a chatbot	✅ Completed
+- Develop chatbot interface	✅ Completed
+- Implement backend API	✅ Completed
+- Create knowledge base	✅ Completed
+- Implement query matching	✅ Completed
+- Handle user queries	✅ Completed
+- Add error handling	✅ Completed
+- Create responsive UI	✅ Completed
 
---- 
+---
 
 ## 🔮 Future Enhancements
 
